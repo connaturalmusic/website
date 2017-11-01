@@ -1343,46 +1343,6 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/background5.jpg");
 }
-.cid-qzDV136ChZ {
-  padding-top: 0px;
-  padding-bottom: 60px;
-  background-color: #232323;
-}
-.cid-qzDV136ChZ .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qzDV136ChZ .media-row {
-  display: flex;
-  justify-content: center;
-}
-.cid-qzDV136ChZ .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
-}
-.cid-qzDV136ChZ .team-item .item-image img {
-  width: 100%;
-}
-.cid-qzDV136ChZ .team-item .item-name p {
-  margin-bottom: 0;
-}
-.cid-qzDV136ChZ .team-item .item-role p {
-  margin-bottom: 0;
-}
-.cid-qzDV136ChZ .team-item .item-social {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-.cid-qzDV136ChZ .team-item .item-social .socicon {
-  color: #232323;
-  font-size: 17px;
-}
-.cid-qzDV136ChZ .team-item .item-caption {
-  background: #635a51;
-}
-.cid-qzDV136ChZ .item-role P {
-  text-align: center;
-}
 .cid-qzGr4xm9zA {
   padding-top: 60px;
   padding-bottom: 60px;
